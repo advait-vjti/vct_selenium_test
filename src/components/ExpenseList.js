@@ -32,6 +32,7 @@ const ExpenseList = () => {
 						id={expense.id}
 						name={expense.name}
 						cost={expense.cost}
+						category={expense.category}
 					/>
 				))}
 			</ul>

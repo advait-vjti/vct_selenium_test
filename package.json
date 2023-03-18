@@ -7,10 +7,12 @@
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^14.4.3",
 		"bootstrap": "^5.2.3",
+		"geckodriver": "^3.0.2",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-icons": "^4.7.1",
 		"react-scripts": "5.0.1",
+		"selenium-side-runner": "^4.0.0-alpha.43",
 		"uuid": "^9.0.0"
 	},
 	"scripts": {
